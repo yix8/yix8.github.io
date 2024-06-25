@@ -66,7 +66,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Computing and Software Systems
+  - area: BSc Computing and Software Systems, Feb. 2017 - Nov. 2019
     institution: University of Melbourne
     date_start: 2016-01-01
     date_end: 2020-12-31
