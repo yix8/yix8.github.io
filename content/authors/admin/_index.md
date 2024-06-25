@@ -77,6 +77,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+---
 
 ## About Me
 I am currently a Master student in Machine Learning at [Dark Lab](https://ucldark.com/), [University College London](https://www.ucl.ac.uk/), supervised by [Tim Rocktäschel](https://rockt.github.io/).
