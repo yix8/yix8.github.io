@@ -121,5 +121,8 @@ languages:
     percent: 25
 
 ## About Me
+I am currently a Master student in Machine Learning at [Dark Lab](https://ucldark.com/), [University College London](https://www.ucl.ac.uk/), supervised by [Tim Rocktäschel](https://rockt.github.io/).
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Previously, I completed my Bachelor in Computing and Software Systems at the [University of Melbourne](https://www.unimelb.edu.au/). Following that, I obtained my first Master degree in Computing Science from [Imperial College London](https://www.imperial.ac.uk/).
+
+I am deeply grateful for the opportunity to explore research directions related to Large Language Models. 
