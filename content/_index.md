@@ -20,16 +20,6 @@ sections:
       #   url: uploads/resume.pdf
     design:
       css_class: dark
-      css_style: '
-        .avatar-wrapper.mt-10 {
-          width: 270px;
-          height: 270px;
-        }
-        .avatar-wrapper.mt-10 img {
-          width: 270px;
-          height: 270px;
-        }
-        '
       background:
         image:
           # Name of image in `assets/media/`.
