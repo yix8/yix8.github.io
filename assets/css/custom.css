@@ -1,8 +1,6 @@
 .avatar {
-    width: auto;
-    height: auto;
-    max-width: 270px;
-    max-height: 270px;
+    width: 250px;
+    height: 250px;
     object-fit: cover;
   }
 
