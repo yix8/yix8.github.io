@@ -1,12 +1,4 @@
 .avatar-wrapper {
-    width: 250px;
-    height: 250px; 
-    overflow: hidden;
-}
-  
-.avatar {
-    width: 100% !important;
-    height: 100% !important;
-    max-width: unset !important;
-    transform: none; 
+    margin-top: -20px; /* Adjust the top margin as needed */
+    margin-left: -10px; /* Adjust the left margin as needed */
 }
