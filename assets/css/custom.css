@@ -1,10 +1,9 @@
-.wg-about-avatar .avatar {
-    width: 100% !important;
-    height: 100% !important;
-    max-width: unset !important;
+.avatar-wrapper {
+    width: 580px;
+    height: 580px;
 }
   
-.wg-about-avatar .avatar-wrapper {
-    width: 350px !important;
-    height: 350px !important;
+.avatar {
+  width: 580px;
+  height: 580px;
 }
