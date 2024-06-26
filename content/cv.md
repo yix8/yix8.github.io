@@ -10,10 +10,9 @@ design:
 
 # Page sections
 sections:
-  - block: files
+  - block: resume-languages
     content:
-      title: 'My Resume'
-      files:
-        - url: 'uploads/resume.pdf'
-          label: 'Download my resume'
+      title: Curriculum Vitae
+      text: |-
+      {{% staticref "uploads/resume.pdf" "newtab" %}}Download my Résumé{{% /staticref %}}
 ---
