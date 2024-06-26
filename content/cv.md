@@ -10,8 +10,10 @@ design:
 
 # Page sections
 sections:
-  - block: resume-languages
+  - block: files
     content:
-      title: Languages
-      username: admin
+      title: 'My Resume'
+      files:
+        - url: 'uploads/resume.pdf'
+          label: 'Download my resume'
 ---

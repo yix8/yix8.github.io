@@ -33,7 +33,7 @@ sections:
   - block: markdown
     id: contact
     content:
-      title: 'My Research'
+      title: 'Contact'
       subtitle: ''
       text: |-
         ✉️ y [DOT] xu [DOT] 23 [AT] ucl [DOT] ac [DOT] uk
