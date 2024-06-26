@@ -84,4 +84,4 @@ I am currently a Master student in Machine Learning at [Dark Lab](https://ucldar
 
 Previously, I completed my Bachelor in Computing and Software Systems at the [University of Melbourne](https://www.unimelb.edu.au/). Following that, I obtained my first Master degree in Computing Science from [Imperial College London](https://www.imperial.ac.uk/).
 
-I am deeply grateful for the opportunity to explore research directions related to Large Language Models. 
+I am deeply grateful for the opportunity to explore research directions related to Natural Language Processing. 

@@ -20,6 +20,7 @@ sections:
       #   url: uploads/resume.pdf
     design:
       css_class: dark
+      css_style: '.avatar-wrapper { width: 270px; height: 270px; }'
       background:
         color: black
         image:
