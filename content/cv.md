@@ -13,6 +13,4 @@ sections:
   - block: resume-languages
     content:
       title: Curriculum Vitae
-      text: |-
-      {{% staticref "uploads/resume.pdf" "newtab" %}}Download my Résumé{{% /staticref %}}
 ---
