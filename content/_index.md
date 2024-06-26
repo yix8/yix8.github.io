@@ -30,6 +30,14 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: markdown
+    id: contact
+    content:
+      title: 'My Research'
+      subtitle: ''
+      text: |-
+        ✉️ y [DOT] xu [DOT] 23 [AT] ucl [DOT] ac [DOT] uk
+
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
