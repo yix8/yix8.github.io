@@ -1,35 +1,10 @@
-.avatar {
-    width: 250px;
-    height: 250px;
-    object-fit: cover;
-  }
-
-
-.avatar-wrapper {
-    position: relative;
-    width: 270px; /* Match image size in about.avatar widget */
-    height: 270px;
-    margin-left: auto;
-    margin-right: auto;
-  }
+.wg-about-avatar .avatar {
+    width: 100% !important;
+    height: 100% !important;
+    max-width: unset !important;
+}
   
-  .avatar-emoji {
-    position: absolute;
-    width: 40px;
-    height: 40px;
-    line-height: 40px;
-    border-radius: 100%;
-    bottom: 0;
-    right: 0;
-    text-align: center;
-    font-size: 20px;
-    background-color: #fff;
-    color: #000; /* override parent alpha */
-    box-shadow: 0 10px 20px rgb(0 0 0 / 4%), 0 2px 6px rgb(0 0 0 / 4%), 0 0 1px rgb(0 0 0 / 4%);
-  }
-  
-  
-  .dark .avatar-emoji {
-    background-color: #000;
-    box-shadow: 0 10px 20px rgb(0 0 0 / 4%), 0 2px 6px rgb(0 0 0 / 4%), 0 0 1px rgb(255 255 255 / 96%);
-  }
+.wg-about-avatar .avatar-wrapper {
+    width: 350px !important;
+    height: 350px !important;
+}
