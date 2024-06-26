@@ -1,6 +1,6 @@
 .avatar-wrapper {
-    width: 270px;
-    height: 270px; 
+    width: 225px;
+    height: 225; 
     overflow: hidden;
 }
   
@@ -8,6 +8,5 @@
     width: 100% !important;
     height: 100% !important;
     max-width: unset !important;
-    object-fit: cover; 
     transform: none; 
 }
