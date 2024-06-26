@@ -42,7 +42,7 @@ profiles:
 
 interests:
   - Large Language Models
-  - Natural Language Processing
+  - Reliability of models
   - Automated Evaluation
 
 education:
