@@ -14,5 +14,5 @@ sections:
     content:
       title: Curriculum Vitae
 ---
-
-{{% staticref "uploads/resume.pdf" "newtab" %}}Download my {{% /staticref %}}
+<iframe src="uploads/resume.pdf" width="100%" height="600px">
+</iframe>
