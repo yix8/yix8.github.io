@@ -46,8 +46,8 @@ interests:
   - Automated Evaluation
 
 education:
-  - area: MSc Machine Learning
-    institution: University College London, Sep. 2023 -
+  - area: MSc Machine Learning, Sep. 2023 -
+    institution: University College London
     date_start: ''
     date_end: ''
     summary: |
@@ -55,8 +55,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MSc Computing Science
-    institution: Imperial College London, Oct. 2020 - Oct. 2021
+  - area: MSc Computing Science, Oct. 2020 - Oct. 2021
+    institution: Imperial College London
     date_start: ''
     date_end: ''
     summary: |
