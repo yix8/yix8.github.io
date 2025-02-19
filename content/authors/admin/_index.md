@@ -37,6 +37,8 @@ profiles:
     url: https://x.com/_yixu
   - icon: brands/github
     url: https://github.com/yix8
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=VVjmdRAAAAAJ&hl=en
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yi-xu-81156a248/
 
