@@ -32,7 +32,7 @@ featured: true
 
 links:
 - name: abstract
-  url: http://example.org
+  url: https://www.arxiv.org/abs/2502.14074
 url_pdf: https://www.arxiv.org/pdf/2502.14074
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
