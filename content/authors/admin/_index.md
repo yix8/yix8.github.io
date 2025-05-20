@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MSc Machine Learning
+role: AI Researcher
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: University College London
-    url: https://www.ucl.ac.uk/
+# organizations:
+#   - name: University College London
+#     url: https://www.ucl.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,7 +48,7 @@ interests:
   - Reinforcement Learning
 
 education:
-  - area: MSc Machine Learning, Sep. 2023 -
+  - area: MSc Machine Learning, Sep. 2023 - Sep. 2024
     institution: University College London
     date_start: ''
     date_end: ''
@@ -82,7 +82,7 @@ education:
 ---
 
 ## About Me
-I am currently a Master student in Machine Learning at [Dark Lab](https://ucldark.com/), [University College London](https://www.ucl.ac.uk/), supervised by [Tim Rocktäschel](https://rockt.github.io/).
+I completed my MSc in Machine Learning at [Dark Lab](https://ucldark.com/), [University College London](https://www.ucl.ac.uk/), where I was supervised by [Tim Rocktäschel](https://rockt.github.io/).
 
 Previously, I completed my Bachelor in Computing and Software Systems at the [University of Melbourne](https://www.unimelb.edu.au/). Following that, I obtained my first Master degree in Computing Science from [Imperial College London](https://www.imperial.ac.uk/).
 
